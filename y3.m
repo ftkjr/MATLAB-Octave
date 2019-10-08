@@ -1,0 +1,1 @@
+function [z] = y3(t)  % Solves the ODE  %   y' = -y/t + t^2 = f3(t,y) where f3.m is my .m file with the defining ODE.  z = t^3/4 + 16/t;endfunction
