@@ -1,0 +1,1 @@
+function [z] = f3(t,y)  z = -y/t + t^2;endfunction
